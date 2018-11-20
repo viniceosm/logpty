@@ -42,4 +42,4 @@ logpty.cb = function(...array) {
 	console.log(`${msg}`, ...colorsBgColors)
 }
 
-logpty.cb(['aquamarine', 'red', ' hello '], ['red', 'aquamarine', ' word ']);
+// logpty.cb(['aquamarine', 'red', ' hello '], ['red', 'aquamarine', ' word ']);
