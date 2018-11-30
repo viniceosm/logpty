@@ -32,4 +32,4 @@ logpty.cb(['white', 'red', 'Fundo vermelho!'],
 logpty.cb(['white', 'red', ' SUPREME '], ['', '', '\n\n\nfeito por viniceosm'])
 ```
 
-Thanks!
+*Thanks!*
